@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PruebaTecnica/RegistroPersonas.csproj" />
+  <Project Path="RegistroUsuarios.Application/RegistroPersonas.Application.csproj" />
+  <Project Path="RegistroUsuarios.Domain/RegistroPersonas.Domain.csproj" />
+  <Project Path="RegistroUsuarios.Infrastructure/RegistroPersonas.Infrastructure.csproj" />
+</Solution>
