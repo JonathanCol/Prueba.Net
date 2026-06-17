@@ -12,9 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RegistroUsuarios.Domain\RegistroPersonas.Domain.csproj" />
-    <ProjectReference Include="..\RegistroUsuarios.Application\RegistroPersonas.Application.csproj" />
-    <ProjectReference Include="..\RegistroUsuarios.Infrastructure\RegistroPersonas.Infrastructure.csproj" />
+    <ProjectReference Include="..\RegistroPersonas.Domain\RegistroPersonas.Domain.csproj" />
+    <ProjectReference Include="..\RegistroPersonas.Application\RegistroPersonas.Application.csproj" />
+    <ProjectReference Include="..\RegistroPersonas.Infrastructure\RegistroPersonas.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

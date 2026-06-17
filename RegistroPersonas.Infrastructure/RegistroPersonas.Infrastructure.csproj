@@ -8,8 +8,11 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\RegistroUsuarios.Domain\RegistroPersonas.Domain.csproj" />
-    <ProjectReference Include="..\RegistroUsuarios.Infrastructure\RegistroPersonas.Infrastructure.csproj" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RegistroPersonas.Domain\RegistroPersonas.Domain.csproj" />
   </ItemGroup>
 
 </Project>
